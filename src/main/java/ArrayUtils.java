@@ -9,3 +9,4 @@ public class ArrayUtils {
         return s;
     }
 }
+System.out.println("Hvaså");
